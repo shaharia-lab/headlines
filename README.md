@@ -7,7 +7,7 @@ A simple tool to fetch news headlines from different news sources.
 - REST Api endpoints. See the OpenAPI schema [here](https://github.com/shaharia-lab/headlines/blob/main/openapi.yaml).
 - A basic UI to see the headlines
 
-![image](https://github.com/user-attachments/assets/518f485e-4a0d-4b2c-9a2c-03fcbbe8db8c)
+![image](https://github.com/user-attachments/assets/3c20dda2-a1b0-458a-862b-057648af81c9)
 
 
 ## Installation
